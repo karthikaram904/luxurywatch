@@ -921,6 +921,13 @@ background: none !important;
     .home2-section-title h2 {
         font-size: 26px;
     }
+	.btn_1.checkout_btn_1 {
+  margin-top: 30px;
+}
+	.dark .single-post-area .navigation-area .nav-right .thumb
+	{
+		background:none !important;
+	}
 }
 @media (max-width: 1100px) {
 .nav-icons
@@ -931,6 +938,21 @@ background: none !important;
 {
 margin: 0px 10px;
 }
+	.watch-area.section-padding-30 {
+  margin-top: 40px;
+}
+	.cart_inner .table tbody tr td h5
+	{
+		margin-left:-30px !important;
+}
+	.rtl .cart_inner .table tbody tr td h5
+	{
+		margin-right:-30px !important;
+}
+}
+
+html, body {
+    overflow-x: hidden;
 }
 .header-area .main-header .menu-wrapper .main-menu ul li a.active,.header-area .main-header .menu-wrapper .main-menu ul ul.submenu > li > a.active {
   color: #ff2020;
@@ -1088,6 +1110,7 @@ color:#000 !important;
 .dark .confirmation_part .order_details_iner,.dark .confirmation_part .single_confirmation_details  {
  background: #000 !important;
 }
+
 
 
 
