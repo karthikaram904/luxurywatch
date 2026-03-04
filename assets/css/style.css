@@ -1110,6 +1110,11 @@ color:#000 !important;
 .dark .confirmation_part .order_details_iner,.dark .confirmation_part .single_confirmation_details  {
  background: #000 !important;
 }
+.home2-banner-content {
+  width: 80%;
+  margin-left: 30px;
+}
+
 
 
 
