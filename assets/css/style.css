@@ -1082,12 +1082,13 @@ color:#000 !important;
 {
 color:#000 !important;
 }
-.dark .comment-form h4,.dark .confirmation_part .order_details_iner span,.dark .confirmation_part .single_confirmation_details ul li p,.dark .confirmation_part .single_confirmation_details ul li h4,.dark .dark .confirmation_part .order_details_iner h3,.dark .confirmation_part .single_confirmation_details h4{
+.dark .comment-form h4,.dark .confirmation_part .order_details_iner span,.dark .confirmation_part .single_confirmation_details ul li p,.dark .confirmation_part .single_confirmation_details ul li h4,.dark .dark .confirmation_part .order_details_iner h3,.dark .confirmation_part .single_confirmation_details h4,.dark .confirmation_part .order_details_iner h3{
   color: #fff;
 }
 .dark .confirmation_part .order_details_iner,.dark .confirmation_part .single_confirmation_details  {
  background: #000 !important;
 }
+
 
 
 
