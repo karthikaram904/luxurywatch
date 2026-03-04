@@ -1078,3 +1078,10 @@ color:#000 !important;
 .confirmation_part,.checkout_area,.cart_area {
   margin-top: 50px;
 }
+.dark .single-post-area .blog-author p,.dark .blog_right_sidebar .popular_post_widget .post_item .media-body h3,.dark .blog_right_sidebar .popular_post_widget .post_item .media-body p
+{
+color:#000 !important;
+}
+.dark .comment-form h4 {
+  color: #fff;
+}
