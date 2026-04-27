@@ -1135,3 +1135,7 @@ color:#000 !important;
 .eye-icon:hover {
   color: #000;
 }
+.dark #navbarCollapse {
+  background: #000;
+  
+}
